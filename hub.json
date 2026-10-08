@@ -1,0 +1,44 @@
+{
+  "arxiv_query": "(abs:\"public sector\" OR abs:government OR abs:\"public policy\" OR abs:\"legal documents\") AND (abs:\"language model\" OR abs:\"machine learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "government llm",
+        "legal llm",
+        "public sector ai"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "policy machine learning",
+        "census machine learning"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "open government data",
+        "civic tech data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "public sector analytics dashboard",
+        "open data dashboard"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "government data analysis",
+        "census data analysis"
+      ]
+    }
+  ]
+}
