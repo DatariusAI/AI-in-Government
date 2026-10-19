@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **public services, policy
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:34 UTC_
+_Last refreshed: 2026-10-19 04:38 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-16 | [Expressivity of IQP Feature-Map Quantum Kernels via Reproducing Kernel Hilbert Spaces](https://arxiv.org/abs/2610.23692) | Valeria Repetto et al. |
+| 2026-10-16 | [MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories](https://arxiv.org/abs/2610.23506) | Quoc Co Tran et al. |
+| 2026-10-16 | [Regulating for an AI Commons: Adopting, sustaining, and defending people-first innovation trajectories](https://arxiv.org/abs/2610.23212) | Abhineet Nayyar et al. |
+| 2026-10-16 | [Before Retrieval Begins: Safety and Tool-Use Decisions in LLM Agents](https://arxiv.org/abs/2610.23071) | Aditya Nawal et al. |
+| 2026-10-16 | [SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval](https://arxiv.org/abs/2610.22959) | Haoming Li et al. |
 | 2026-10-15 | [PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents](https://arxiv.org/abs/2610.22124) | Kshitij Mishra et al. |
 | 2026-10-15 | [The Delegation Dilemma: Economies of Scale, Accountability, and Polycentric Governance](https://arxiv.org/abs/2610.21746) | Arin Mukhopadhyay et al. |
 | 2026-10-15 | [Data Strategies for Large Language Models: A Unified Perspective on the Training Lifecycle](https://arxiv.org/abs/2610.21681) | Yuanjian Xu et al. |
-| 2026-10-15 | [ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases](https://arxiv.org/abs/2610.21368) | Jaeyoung Lee et al. |
-| 2026-10-15 | [Two Sample Sizes in Test-Time LLM Ensembling: Buffered ERM and Minimax Theory](https://arxiv.org/abs/2610.21363) | Zhi Zhang et al. |
-| 2026-10-15 | [From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models](https://arxiv.org/abs/2610.21165) | Chaogui Gou |
-| 2026-10-14 | [Wolof-Adapted Industry-Ready Open-Weight Language Models](https://arxiv.org/abs/2610.20824) | Gwénolé Lecorvé et al. |
-| 2026-10-14 | [Which Knowledge Should LLMs Trust? Uncovering a Generalizable Steering Direction Across Knowledge Conflicts](https://arxiv.org/abs/2610.20067) | Yibin Lou et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,11 +39,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 558 | 2026-09-15 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 570 | 2026-09-15 |
 | [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) | AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Curs |  | 474 | 2026-07-23 |
 | [Ramseygithub/ai-legal-compliance-assistant](https://github.com/Ramseygithub/ai-legal-compliance-assistant) | AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsu | Python | 336 | 2026-02-03 |
 | [aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) | 台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex — bring your own LL | Python | 328 | 2026-10-14 |
-| [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) | 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations,  | Python | 260 | 2026-02-26 |
+| [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) | 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations,  | Python | 262 | 2026-02-26 |
 | [Paparusi/legal-ai-agent](https://github.com/Paparusi/legal-ai-agent) |  | Python | 210 | 2026-03-21 |
 <!-- AI:END -->
 
@@ -67,11 +67,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | Python | 16,925 | 2026-10-16 |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | Python | 16,928 | 2026-10-18 |
 | [factbook/factbook.json](https://github.com/factbook/factbook.json) | World Factbook Country Profiles in JSON - Free Open Public Domain Data - No API Key Required ;-) |  | 1,133 | 2026-09-11 |
-| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 408 | 2026-10-17 |
-| [Hack23/cia](https://github.com/Hack23/cia) | Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Track | Java | 241 | 2026-10-15 |
-| [rnckp/awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland) | A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to | Python | 181 | 2026-09-27 |
+| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 408 | 2026-10-18 |
+| [Hack23/cia](https://github.com/Hack23/cia) | Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Track | Java | 241 | 2026-10-18 |
+| [rnckp/awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland) | A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to | Python | 182 | 2026-09-27 |
 | [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) | AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic ca | Python | 150 | 2026-10-10 |
 <!-- DS:END -->
 
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | TypeScript | 77,342 | 2026-10-18 |
-| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 49,719 | 2026-10-18 |
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 17,888 | 2026-10-16 |
-| [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling | Vue | 2,453 | 2026-10-17 |
-| [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) | Open-source infrastructure and data orchestration platform for risk decisioning | TypeScript | 2,444 | 2026-10-09 |
-| [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) | Dreeve is a self-hosted, open-source dashboard for your sports and fitness data | PHP | 2,163 | 2026-10-17 |
+| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | TypeScript | 77,357 | 2026-10-19 |
+| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 49,728 | 2026-10-19 |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 17,897 | 2026-10-19 |
+| [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling | Vue | 2,453 | 2026-10-19 |
+| [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) | Open-source infrastructure and data orchestration platform for risk decisioning | TypeScript | 2,445 | 2026-10-09 |
+| [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) | Dreeve is a self-hosted, open-source dashboard for your sports and fitness data | PHP | 2,164 | 2026-10-17 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -100,7 +100,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [vishvesharma/urbanscope](https://github.com/vishvesharma/urbanscope) | UrbanScope is a multi-domain data fusion system that combines diverse government datasets to simulate and predict environmental, safety, and | Jupyter Notebook | 19 | 2026-04-13 |
 | [mmann1123/pytidycensus](https://github.com/mmann1123/pytidycensus) | pytidycensus is a Python library that provides an integrated interface to several United States Census Bureau APIs and geographic boundary f | Python | 16 | 2026-06-04 |
 | [PrabhkiratSingh123/EDA-PROJECT-RELATED-TO-Demographics-An-Exploratory-Analysis-of-Census-Data](https://github.com/PrabhkiratSingh123/EDA-PROJECT-RELATED-TO-Demographics-An-Exploratory-Analysis-of-Census-Data) |  | Python | 13 | 2025-11-27 |
-| [chihacknight/govbot](https://github.com/chihacknight/govbot) | Decentralized Government Data Meets AI Analysis — Built for Citizens and Activists | Python | 12 | 2026-10-17 |
+| [chihacknight/govbot](https://github.com/chihacknight/govbot) | Decentralized Government Data Meets AI Analysis — Built for Citizens and Activists | Python | 12 | 2026-10-18 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
