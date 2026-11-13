@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **public services, policy
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-12 04:27 UTC_
+_Last refreshed: 2026-11-13 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 746 | 2026-09-15 |
-| [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) | AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Curs |  | 504 | 2026-07-23 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 747 | 2026-09-15 |
+| [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) | AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Curs |  | 505 | 2026-07-23 |
 | [aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) | 台灣法律 MCP 伺服器 + CLI（免費、免金鑰，連接時登入法律偵探帳號）：2,280 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex: sign in with a D | Python | 346 | 2026-11-12 |
 | [Ramseygithub/ai-legal-compliance-assistant](https://github.com/Ramseygithub/ai-legal-compliance-assistant) | AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsu | Python | 339 | 2026-02-03 |
-| [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) | 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations,  | Python | 312 | 2026-02-26 |
-| [Paparusi/legal-ai-agent](https://github.com/Paparusi/legal-ai-agent) |  | Python | 212 | 2026-03-21 |
+| [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) | 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations,  | Python | 313 | 2026-02-26 |
+| [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) | 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models. | Python | 221 | 2026-11-13 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -67,9 +67,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | TypeScript | 16,986 | 2026-11-10 |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | TypeScript | 16,987 | 2026-11-12 |
 | [factbook/factbook.json](https://github.com/factbook/factbook.json) | World Factbook Country Profiles in JSON - Free Open Public Domain Data - No API Key Required ;-) |  | 1,133 | 2026-09-11 |
-| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 420 | 2026-11-12 |
+| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 421 | 2026-11-13 |
 | [rnckp/awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland) | A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to | Python | 184 | 2026-11-11 |
 | [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) | AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic ca | Python | 150 | 2026-11-03 |
 | [lzinga/us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp) | MCP server + TypeScript SDK for 40+ U.S. government data APIs — 250+ tools. Treasury, FRED, Congress, FDA, CDC, FEC, lobbying, and many more | TypeScript | 112 | 2026-11-02 |
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | TypeScript | 77,853 | 2026-11-12 |
-| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 50,292 | 2026-11-12 |
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 18,145 | 2026-11-10 |
+| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | TypeScript | 77,875 | 2026-11-13 |
+| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 50,306 | 2026-11-13 |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 18,150 | 2026-11-13 |
 | [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling | Vue | 2,460 | 2026-11-10 |
-| [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) | Open-source infrastructure and data orchestration platform for risk decisioning | TypeScript | 2,451 | 2026-10-09 |
-| [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. | TypeScript | 2,389 | 2026-10-06 |
+| [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) | Open-source infrastructure and data orchestration platform for risk decisioning | TypeScript | 2,452 | 2026-10-09 |
+| [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. | TypeScript | 2,398 | 2026-10-06 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
