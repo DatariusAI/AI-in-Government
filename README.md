@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **public services, policy
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-25 04:28 UTC_
+_Last refreshed: 2026-11-26 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-24 | [LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving](https://arxiv.org/abs/2611.32954) | Wentao Zhu et al. |
-| 2026-11-24 | [Benchmarking Protein Structure Tokenizers as Generation Targets for Language Models](https://arxiv.org/abs/2611.32168) | Yong Liu et al. |
-| 2026-11-24 | [Rethinking Reasoning Effort Training in Large Language Models: On-Policy Distillation or Reinforcement Learning?](https://arxiv.org/abs/2611.32131) | Tianliang Lv et al. |
-| 2026-11-24 | [Provenance-Isolated Epistemic Quorums: Execution-Bound Evidence Certification and Plausible-World Safety Gating in Agentic Control Planes](https://arxiv.org/abs/2611.32032) | Jun He et al. |
-| 2026-11-24 | [Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion](https://arxiv.org/abs/2611.31865) | Jaekyun Yoo et al. |
-| 2026-11-23 | [CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting](https://arxiv.org/abs/2611.31185) | Ramraj Chandradevan et al. |
-| 2026-11-23 | [Grower-in-the-loop AI for Deployable Precision Fertilisation in Sustainable Agriculture](https://arxiv.org/abs/2611.31044) | Xulong Wang et al. |
-| 2026-11-23 | [Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](https://arxiv.org/abs/2611.30917) | Antonio Lorenzo Mariano et al. |
+| 2026-11-25 | [Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation](https://arxiv.org/abs/2611.34584) | Sentao Miao et al. |
+| 2026-11-25 | [Variational Principles and Machine Learning: a Numerical Analysis and PDE perspective](https://arxiv.org/abs/2611.34314) | Charalambos G. Makridakis |
+| 2026-11-25 | [Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting](https://arxiv.org/abs/2611.34016) | Dmytro Babarytskyi et al. |
+| 2026-11-25 | [PerovAgent: Autonomous Ligand Design for Halide Perovskite Nanocrystals](https://arxiv.org/abs/2611.33913) | Seungjun Cha et al. |
+| 2026-11-25 | [DynaSeek: Large Language Model-Driven Hybrid Dynamic Model Discovery for Grid-Tied Inverters from Limited Measurements](https://arxiv.org/abs/2611.33661) | Hongwei Zhen et al. |
+| 2026-11-24 | [Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion](https://arxiv.org/abs/2611.33470) | Jeremy Canale |
+| 2026-11-24 | [Discovering Explicit Magnetic Core-Loss Equations via Symbolic Sparse Identification](https://arxiv.org/abs/2611.33364) | Haoyu Wang et al. |
+| 2026-11-24 | [Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement](https://arxiv.org/abs/2611.33050) | Zihan Chen et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 824 | 2026-09-15 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,接口,数据API,裁判文书,Legal Case,法律法规,法条,Law Article,企业工商,Company Regi | Python | 830 | 2026-09-15 |
 | [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) | AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Curs |  | 522 | 2026-07-23 |
 | [aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) | 法律偵探 Dr.Legal 的台灣法律 MCP 伺服器與 CLI：檢索 2,285 萬筆裁判書、現行法條、行政函釋及勞動裁決，支援全文調閱、審級關聯與引用查核。可連接 Claude、ChatGPT、Gemini CLI、Codex 等 AI 工具；免費使用，需登入帳號。Taiwa | Python | 353 | 2026-11-22 |
-| [Ramseygithub/ai-legal-compliance-assistant](https://github.com/Ramseygithub/ai-legal-compliance-assistant) | AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsu | Python | 343 | 2026-02-03 |
+| [Ramseygithub/ai-legal-compliance-assistant](https://github.com/Ramseygithub/ai-legal-compliance-assistant) | AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsu | Python | 342 | 2026-02-03 |
 | [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) | 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations,  | Python | 335 | 2026-02-26 |
-| [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) | 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models. | Python | 272 | 2026-11-24 |
+| [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) | 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models. | Python | 275 | 2026-11-25 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -67,9 +67,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | TypeScript | 17,009 | 2026-11-24 |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full o | TypeScript | 17,012 | 2026-11-25 |
 | [factbook/factbook.json](https://github.com/factbook/factbook.json) | World Factbook Country Profiles in JSON - Free Open Public Domain Data - No API Key Required ;-) |  | 1,135 | 2026-09-11 |
-| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 429 | 2026-11-25 |
+| [worldwidelaw/legal-sources](https://github.com/worldwidelaw/legal-sources) | Open-source collection scripts for open legal data from 110+ countries maintained by the Legal Data Hunter agent. Request your government's  | Python | 430 | 2026-11-26 |
 | [rnckp/awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland) | A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to | Python | 185 | 2026-11-18 |
 | [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) | AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic ca | Python | 150 | 2026-11-03 |
 | [lzinga/us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp) | MCP server + TypeScript SDK for 40+ U.S. government data APIs — 250+ tools. Treasury, FRED, Congress, FDA, CDC, FEC, lobbying, and many more | TypeScript | 113 | 2026-11-02 |
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | Go | 78,135 | 2026-11-25 |
-| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 50,509 | 2026-11-25 |
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 18,389 | 2026-11-25 |
-| [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. | TypeScript | 2,488 | 2026-10-06 |
-| [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling | Vue | 2,460 | 2026-11-24 |
-| [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) | Dreeve is a self-hosted, open-source dashboard for your sports and fitness data | PHP | 2,222 | 2026-11-24 |
+| [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Promet | TypeScript | 78,192 | 2026-11-26 |
+| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 50,547 | 2026-11-26 |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question | Python | 18,402 | 2026-11-26 |
+| [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. | TypeScript | 2,489 | 2026-10-06 |
+| [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling | Vue | 2,458 | 2026-11-24 |
+| [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) | Dreeve is a self-hosted, open-source dashboard for your sports and fitness data | PHP | 2,224 | 2026-11-25 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -99,7 +99,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [StaLincon/CS2-CityAnalysis](https://github.com/StaLincon/CS2-CityAnalysis) | Cities: Skylines II - City Data Analysis & Government Report Generator | C# | 24 | 2026-08-31 |
 | [vishvesharma/urbanscope](https://github.com/vishvesharma/urbanscope) | UrbanScope is a multi-domain data fusion system that combines diverse government datasets to simulate and predict environmental, safety, and | Jupyter Notebook | 20 | 2026-04-13 |
 | [mmann1123/pytidycensus](https://github.com/mmann1123/pytidycensus) | pytidycensus is a Python library that provides an integrated interface to several United States Census Bureau APIs and geographic boundary f | Python | 17 | 2026-06-04 |
-| [chihacknight/govbot](https://github.com/chihacknight/govbot) | Decentralized Government Data Meets AI Analysis — Built for Citizens and Activists | Python | 13 | 2026-11-25 |
+| [chihacknight/govbot](https://github.com/chihacknight/govbot) | Decentralized Government Data Meets AI Analysis — Built for Citizens and Activists | Python | 13 | 2026-11-26 |
 | [PrabhkiratSingh123/EDA-PROJECT-RELATED-TO-Demographics-An-Exploratory-Analysis-of-Census-Data](https://github.com/PrabhkiratSingh123/EDA-PROJECT-RELATED-TO-Demographics-An-Exploratory-Analysis-of-Census-Data) |  | Python | 13 | 2025-11-27 |
 <!-- DAN:END -->
 
